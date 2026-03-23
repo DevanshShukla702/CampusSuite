@@ -243,11 +243,11 @@ cd frontend
 <table>
 <tr>
 <td align="center">
-<b>Aryan Mishra</b><br />
+<b>Devansh Shukla</b><br />
 <sub>Full Stack & AI</sub>
 </td>
 <td align="center">
-<b>Devansh Shukla</b><br />
+<b>Aryan Mishra</b><br />
 <sub>Backend & Firebase</sub>
 </td>
 <td align="center">
